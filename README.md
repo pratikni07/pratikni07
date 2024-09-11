@@ -10,12 +10,15 @@ Welcome to my GitHub profile. I'm Pratik Nikat, a passionate developer with a ke
 - 💞️ I’m looking to collaborate on **FullStack Projects**.
 - 📫 How to reach me: [pratiknikat07@gmail.com](mailto:pratiknikat07@gmail.com)
 
-## Skills
+## 💻 Tech Stack:
+<br>
 
-- **Frontend**: HTML, CSS, JavaScript, React.js, Tailwind CSS, Bootstrap, Material-UI
-- **Backend**: Node.js, Express.js
-- **Database**: MongoDB, SQL, MongoDB Atlas
-- **Tools & Technologies**: Git, GitHub, Redux, Vercel, Netlify, Clerk, RESTful APIs, Postman, Chart.js, npm, Cloudinary, RazorPay, Clerk Authentication, Tailwind CSS
+<div align="center">
+
+[![My Skills](https://skillicons.dev/icons?i=cpp,java,git,html,css,js,mongodb,express,react,nodejs,spring,bootstrap,tailwind,redux,materialui,postman,mysql,netlify,vercel,nextjs,firebase,redis,aws,linux,bash,ai,docker,kubernetes,ansible,jenkins,githubactions,figma,kafka&perline=15)]()
+
+</div>
+<br>
 
 ## Projects
 
