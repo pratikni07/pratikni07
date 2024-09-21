@@ -20,6 +20,7 @@ Welcome to my GitHub profile. I'm Pratik Nikat, a passionate developer with a ke
 </div>
 <br>
 
+
 ## Projects
 
 Feel free to explore my repositories and check out my work!
