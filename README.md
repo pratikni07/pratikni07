@@ -5,7 +5,7 @@ Welcome to my GitHub profile. I'm Pratik Nikat, a passionate developer with a ke
 ## About Me
 
 - 👋 Hi, I’m [pratik nikat](https://github.com/pratikni07)
-- 🎓 I’m pursuing a B.Tech in **Computer Science** from Pimpri Chinchwad College of Engineering (PCCOE), Akurdi, with an expected graduation in 2025.
+- 🎓 I’m pursuing a B.Tech in **Computer Science** from Pimpri Chinchwad College of Engineering (PCCOE), Akurdi, with an expected graduation in 2025
 - 🌱 I’m currently learning **Data Structures and Algorithms (DSA)**.
 - 💞️ I’m looking to collaborate on **FullStack Projects**.
 - 📫 How to reach me: [pratiknikat07@gmail.com](mailto:pratiknikat07@gmail.com)
