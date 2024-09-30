@@ -15,7 +15,7 @@ Welcome to my GitHub profile. I'm Pratik Nikat, a passionate developer with a ke
 
 <div align="center">
 
-[![My Skills](https://skillicons.dev/icons?i=cpp,java,git,html,css,js,mongodb,express,react,nodejs,spring,bootstrap,tailwind,redux,materialui,postman,mysql,netlify,vercel,nextjs,firebase,redis,aws,linux,bash,ai,docker,kubernetes,terraform,ansible,jenkins,githubactions,figma,kafka&perline=15)]()
+[![My Skills](https://skillicons.dev/icons?i=cpp,java,git,html,css,js,mongodb,express,react,nodejs,spring,bootstrap,tailwind,redux,materialui,postman,mysql,vercel,redis,aws,linux,bash,ai,docker,kubernetes,terraform,ansible,jenkins,githubactions,figma,kafka&perline=15)]()
 
 </div>
 <br>
