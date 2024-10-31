@@ -1,33 +1,102 @@
-# Hi there! 👋
+# Hi there, I'm Pratik Nikat! 👋
 
-Welcome to my GitHub profile. I'm Pratik Nikat, a passionate developer with a keen interest in full-stack development.
+> Building digital experiences through code | Full Stack Developer | Computer Science Student
 
-## About Me
+## 🎯 Quick Overview
 
-- 👋 Hi, I’m [pratik nikat](https://github.com/pratikni07)
-- 🎓 I’m pursuing a B.Tech in **Computer Science** from Pimpri Chinchwad College of Engineering (PCCOE), Akurdi, with an expected graduation in 2025
-- 🌱 I’m currently learning **Data Structures and Algorithms (DSA)**.
-- 💞️ I’m looking to collaborate on **FullStack Projects**.
-- 📫 How to reach me: [pratiknikat07@gmail.com](mailto:pratiknikat07@gmail.com)
+```javascript
+const pratikNikat = {
+    role: "Full Stack Developer",
+    education: "B.Tech Computer Science @ PCCOE, Akurdi (2025)",
+    currentlyLearning: "Data Structures and Algorithms",
+    lookingTo: "Collaborate on Full Stack Projects",
+    contact: "pratiknikat07@gmail.com"
+};
+```
 
-## 💻 Tech Stack:
-<br>
+## 🎓 About Me
 
-<div align="center">
+- 🏫 Computer Science student at **PCCOE, Akurdi**
+- 🌱 Currently deep diving into **DSA**
+- 💡 Always eager to learn new technologies
+- 🤝 Open to collaborating on innovative projects
+- 📚 Continuously expanding my tech stack
 
-[![My Skills](https://skillicons.dev/icons?i=cpp,java,git,html,css,js,mongodb,express,react,nodejs,spring,bootstrap,tailwind,redux,materialui,postman,mysql,vercel,redis,aws,linux,bash,ai,docker,kubernetes,terraform,ansible,jenkins,githubactions,figma,kafka&perline=15)]()
+## 💻 Technical Skills
 
-</div>
-<br>
+### Languages
+```
+C++ | Java | JavaScript | HTML | CSS | Bash
+```
 
+### Frontend Development
+```
+React.js | Redux | Tailwind CSS | Bootstrap | Material UI
+```
 
-## Projects
+### Backend Development
+```
+Node.js | Express.js | Spring Boot
+```
 
-Feel free to explore my repositories and check out my work!
+### Databases
+```
+MongoDB | MySQL | Redis
+```
 
-## Connect with Me
+### DevOps & Tools
+```
+AWS | Docker | Kubernetes | Jenkins | Terraform | Ansible
+Git | GitHub Actions | Postman | Linux
+```
 
-- [LinkedIn](https://www.linkedin.com/in/pratiknikat)
-- [Twitter](https://x.com/Pratik034575706)
+### Additional Tools
+```
+Figma | Kafka | Vercel
+```
 
-Looking forward to collaborating and connecting with other developers. Let's build something amazing together!
+## 🌟 Key Areas of Expertise
+
+- ⚡ Full Stack Web Development
+- 🔄 RESTful API Design
+- 🛠 DevOps Practices
+- 🎨 UI/UX Implementation
+- 📊 Database Management
+- 🚀 Cloud Services (AWS)
+
+## 📫 Let's Connect!
+
+- 💼 [LinkedIn](https://www.linkedin.com/in/pratiknikat)
+- 🐦 [Twitter](https://x.com/Pratik034575706)
+- 📧 [Email](mailto:pratiknikat07@gmail.com)
+
+## 💭 Current Focus
+
+- 📚 Mastering Data Structures and Algorithms
+- 🌐 Building scalable web applications
+- 🔄 Learning DevOps best practices
+- 🤝 Contributing to open-source projects
+
+## 🤝 Open to:
+
+- 💻 Full Stack Development Projects
+- 👥 Team Collaborations
+- 💡 Innovative Tech Solutions
+- 🌱 Learning Opportunities
+
+---
+
+```javascript
+while (alive) {
+    eat();
+    sleep();
+    code();
+    repeat();
+}
+```
+
+> "The only way to do great work is to love what you do." - Steve Jobs
+
+---
+
+💬 Feel free to reach out for collaborations or just a tech chat!
