@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Pratik Nikat 👋</h1>
 
 <p align="center">
-  <b>Software Engineer @ Intangles Lab</b> · Backend & distributed systems · Building AI agents
+  <b>Engineering Trainee @ Intangles Lab</b> · Backend & distributed systems · Building AI agents
 </p>
 
 <p align="center">
@@ -15,9 +15,9 @@
 
 ### About me
 
-I'm a software engineer with **1.7+ years** of experience building backend systems: event pipelines, real-time services, and the infrastructure under them. At work I build industrial IoT backends. Outside work I build developer tools, mostly around observability and AI agents that do real engineering work.
+I'm a backend engineer with **1.7+ years** of experience building backend systems: event pipelines, real-time services, and the infrastructure under them. At work I build industrial IoT backends. Outside work I build developer tools, mostly around observability and AI agents that do real engineering work.
 
-- 🏢 Software Engineer at **Intangles Lab**, building industrial IoT backend services
+- 🏢 Engineering Trainee at **Intangles Lab**, building industrial IoT backend services
 - 🧠 Interested in distributed systems, observability, and LLM agents
 - 🎓 B.Tech in Computer Science, **PCCOE Pune** (2025)
 - 📫 Open to interesting backend, infra, and AI-tooling work. Email me at **pratiknikat07@gmail.com**
@@ -26,7 +26,7 @@ I'm a software engineer with **1.7+ years** of experience building backend syste
 
 ### 💼 Experience
 
-**Software Engineer · [Intangles Lab](https://www.intangles.ai)** · Pune · *2025 – Present*
+**Engineering Trainee · [Intangles Lab](https://www.intangles.ai)** · Pune · *Jun 2025 – Present* (Software Engineer Intern, Mar – Jun 2025)
 - Backend services in Node.js for an industrial IoT platform, built on Kafka, RabbitMQ, and MQTT
 - Storage across PostgreSQL / TimescaleDB, MongoDB, and Elasticsearch, with a focus on time-series data and query performance
 - Microservice design and inter-service messaging in a high-volume telemetry environment
