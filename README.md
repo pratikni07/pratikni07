@@ -72,7 +72,7 @@ Click **"Fix with mini4"** on a Jira, Linear, or GitHub ticket. In an isolated c
 <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,vite,flutter" alt="Frontend and mobile">
 
 **Data**<br>
-<img src="https://skillicons.dev/icons?i=postgres,mongodb,redis,elasticsearch" alt="Data"> plus ClickHouse and TimescaleDB
+<img src="https://skillicons.dev/icons?i=postgres,mongodb,redis,elasticsearch" alt="Data"><img src="assets/icons/clickhouse.svg" alt="ClickHouse" title="ClickHouse"><img src="assets/icons/timescaledb.svg" alt="TimescaleDB" title="TimescaleDB">
 
 **Cloud, infra & observability**<br>
 <img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,terraform,ansible,githubactions,jenkins,prometheus,grafana,linux" alt="Infra">
